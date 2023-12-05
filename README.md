@@ -14,20 +14,30 @@
    
 ## Features Engineering
 
+![image](https://github.com/yoohwanihn/DataAnalysis-2022WC/assets/73772238/7bfb34c1-d66f-486f-85c9-451af7a94ed8)
+
+
 1. 기대효과
    
    차원 감소, 특징 선택, 특징 추출 가능
 
 2. 다층 신경망
+
+   ![image](https://github.com/yoohwanihn/DataAnalysis-2022WC/assets/73772238/a3410acc-666e-460d-aa27-731ab8378ede)
+
+   사이킷런 활용, 은닉층 3개
    
-   사이킷런 활용, 은닉층 3
    
 3. 모델 훈련
    
-   로지스틱 회귀, MLP Classifier, Lgb, 랜덤 포레스 4가지 모델 Roc Curve를 통해 비교하였고 로지스틱 회귀 모델이 정확도가 높았고 Running Time 성능이 가장 뛰어나 채택하였음.
+   로지스틱 회귀, MLP Classifier, Lgb, 랜덤 포레스 4가지 모델을 카파 계수, Roc Curve를 통해 비교하였고 로지스틱 회귀 모델이 정확도가 높았고 Running Time 성능이 가장 뛰어나 채택하였음.
 
    
 ## Data Analysis
+
+![image](https://github.com/yoohwanihn/DataAnalysis-2022WC/assets/73772238/d7c4b11f-b311-4cb2-9e23-8870551c82ac)
+
+
 기계학습을 토대로 하였을때 벨기에가 우승국으로 나왔음.
 
 ## 결론 
